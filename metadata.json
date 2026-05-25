@@ -1,0 +1,6 @@
+{
+  "name": "Ne Touche Pas !",
+  "description": "Une application de sécurité d'alarme anti-toucher qui fait sonner et vibrer votre téléphone si quelqu'un le déplace, en appelant votre nom et en lui disant d'arrêter !",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
